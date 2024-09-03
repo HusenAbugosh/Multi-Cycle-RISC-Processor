@@ -1,5 +1,10 @@
 **Multi-Cycle RISC Processor**
 
+
+![Processor Architecture](DataPath.jpg)
+
+
+
 **Overview**
 
  * This project involves the design and verification of a multi-cycle RISC processor implemented in Verilog.
