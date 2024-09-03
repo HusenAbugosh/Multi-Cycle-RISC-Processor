@@ -58,6 +58,10 @@
 * Test Benches: Verification of the processor’s functionality through various test scenarios.
 * Project Report: Detailed documentation explaining the design and implementation, including block diagrams, truth tables, and testing results.
 
+**Project Documentation**
+
+You can view the detailed project report [here](Project Report.pdf).
+
 **How to Run**
 
 1. Clone the repository.
