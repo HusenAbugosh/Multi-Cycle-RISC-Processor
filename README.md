@@ -60,7 +60,7 @@
 
 **Project Documentation**
 
-You can view the detailed project report [here](Project Report.pdf).
+You can view the detailed project report [here](Report.pdf).
 
 **How to Run**
 
